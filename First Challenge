@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prima challenge EPICODE di Gianmarco Iannella</title>
+</head>
+<body>
+    <div style="background-color: aqua;">
+        <h1>GRAZIE DELLL'ATTENZIONE, ORA MI PRESENTO</h1>
+        <p>Sono Gianmarco Iannella, un ragazzo di 32 anni che non vede l' ora di immergersi nel <span style="color: brown;"> mondo del coding </span></p>
+        <h2>INTERESSI ED HOBBY</h2>
+        <p> Ora vi presenterò una lista dei miei interessi e dei miei hobby</p>
+        <ul>
+        <li>Mangiare. Ebbene si, la gastronomia è cultura e come tale merita di essere studiata. Sia a livello pratico che a livello pratico: magnando.</li>
+        <li>Videogame. Ho da sempre avuto una passione per i mondi virtuali e le fantasie renderizzate in un modo tale da proiettarti quasi fisicamente in quel dove immaginario. Quasi magia.</li>
+        <li>Viaggiare. Per scoprire, capire e conoscere. Arricchirsi.</li>
+        <a href="https://magic.wizards.com/it">
+        <li>Magic:The Gathering. Ebbene si, rimarrei ore a giocare al gioco di carte collezionabili più famoso al mondo.</li>
+        </a>
+        </ul>
+        <p>Mi pare comunque giusto, per farvi capire meglio chi sono, dare un' ordine decrescente per importanza agli elementi sopra citati</p>
+        <ol>
+            <li>Mangiare</li>
+            <li>Magic:The Gathering</li>
+            <li>Videogame</li>
+            <li>Viaggiare</li>
+        </ol>
+        <h2>ESPERIENZE SCOLASTICHE/ACCADEIMCHE E LAVORATIVE</h2>
+        <p>Ora vi descriverò in pbreve la mia formazione e le ultime esperienze lavoratve fatte</p>
+        <table>
+            <tr><td><i>Formazione</i></td><td>Diploma presso liceo delle scienze sociali</td><td>Laurea triennale presso università di Bologna in Antropologia,religioni e civiltà orientali L-42</td><td>Sto conseguendo la laurea magistrale presso Ca' Foscari università di Venezia in Antropologia culturale LM-01</td></tr>
+            <tr><td><i>Professioni</i></td><td>Operatore sociale addetto all' accoglienza e all'integrazione</td><td>Docente scuola primaria</td></tr>
+        </table>
+        <img src="https://scontent.fvbs2-2.fna.fbcdn.net/v/t39.30808-6/248206510_10223717231551681_8084782170181364634_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4gLofuD0YsYAX86cGQ3&_nc_ht=scontent.fvbs2-2.fna&oh=00_AfA2W4i_fJOzRQ2pGv0DV-zi00tNnvXWpgGdYyBuVf_uBg&oe=6531A9F0"/>
+        <h5>Email</h5>
+            <p>gianmarco.iannella@yahoo.it</p>
+        <h5>Numero di telefono</h5>
+            <p>3896578910</p>
+        <h5>Social</h5>
+            <a href="https://www.facebook.com/gianmarco.iannella">
+                <p>Facebook</p>
+            </a>
+
+           
+
+    
+    </div>
+    
+</body>
+</html>
