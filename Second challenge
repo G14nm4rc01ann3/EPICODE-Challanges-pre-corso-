@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JOIN US!</title>
+</head>
+<body>
+    <img src="https://s4x9x8w4.stackpathcdn.com/sites/default/files/styles/auto_1500_width/public/article-images/125406/slideshow-1674858228.jpg"/>
+    <h1><span style="color: aquamarine;">IT'S TIME TO JOIN OUR COMMUNITY</span> </h1>
+    <p>If you sign up in the first fifteen days of October you will have unlimited music available for the <span style="color: brown;"> entire year.</span></p>
+    <img src="https://www.ilgiorno.it/image-service/version/c:NDQ0ODJiMGItMDEzNi00:ZTQxODQw/serata-in-discoetca.webp?f=16%3A9&q=1&w=1560"/>
+    <h2>Fill in your details to receive the offer!</h2>
+    <p>Once you have sent us your details you will receive a confirmation response within 48 hours</p>
+    <form onsubmit="alert('Your recording has been sent! Thank you')">
+    <div>
+        <p>Firs name</p>
+        <input type="text" placeholder="First name"/>
+    </div>
+    <div>
+        <p>Surname</p>
+        <input type="text" placeholder="Surname"/>
+    </div>
+    <div>
+        <p>Email</p>
+        <input type="email" placeholder="Email"/>
+    </div>
+    <div> 
+        <p>Password</p>
+     <input type="password" placeholder="Password"/>
+    </div>
+    <div>
+        <p>Birthday</p>
+        <input type="date"/>
+    </div>
+    <div>
+        <p>Telephon number</p>
+        <input type="number" placeholder="Telephon number"/>
+    </div>
+    <div>
+        <p>Musical preferences</p>
+        <input type="checkbox"/>Rock
+        <input type="checkbox"/>Classic
+        <input type="checkbox"/>Pop 
+        <input type="checkbox"/>Rap and Hip Hop 
+        <input type="checkbox"/>Electronic and Techno
+        <input type="checkbox"/>Jazz and Blues 
+        <input type="checkbox"/>Raggaeton and Latin 
+        <input type="checkbox"/>Indie 
+        <input type="checkbox"/>Folk
+    </div>
+    <div>
+        <h4>Acceptance of terms and conditions</h4>
+        <input type="radio"/>Accept
+        <input type="radio"/>Do not accept 
+    </div>
+    <div> 
+    <button type="submit"><span style="color: blueviolet;">SEND REGISTRATION</span></button>
+</div>
+</form>
+</body>
+</html>
